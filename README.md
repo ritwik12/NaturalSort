@@ -1,6 +1,8 @@
 # NaturalSort
 Perform natural order comparisons of strings in Java
 
+![sort](https://user-images.githubusercontent.com/20038775/38733029-18be9a2c-3f3e-11e8-94d8-24010db98fec.JPG)
+
 Most string comparators in programming languages compare strings based on the ASCII values of their individual characters. As an example, consider the following (unsorted) array of strings: 
 
 ``
